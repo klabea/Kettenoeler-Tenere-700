@@ -1,5 +1,5 @@
 # Kettenöler Tenere 700
-Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an einem Halter, der formschlüssig in der hinteren Freimachung der linken Motorstütze sitz, verschraubt.
+Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an einem Halter, der formschlüssig in der hinteren Freimachung der linken Motorstütze sitzt, verschraubt.
 
 |Anzahl|Bezeichnung                        |Maße     |DIN/EN   |Bemerkung  |
 |:---: | ---                               | ---     | ---     | ---       |
