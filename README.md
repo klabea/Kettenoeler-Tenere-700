@@ -14,3 +14,18 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 ![ ](/images/scott_01.jpg)
 
 ## Ritzelabdeckung
+
+|Pos.  |Anzahl|Bezeichnung                          |Maße     |DIN/EN   |Bemerkung  |
+|:---: | ---  | ---                                 | ---     | ---     | ---       |
+|1     |1     |Cover                                |         |         |PETG / ASA  |
+|2     |1     |Guide Tube                           |         |         |PETG / ASA  |
+|3     |1     |Clamp outboard                       |         |         |PETG / ASA  |
+|4     |1     |Clamp inboard                        |         |         |PETG / ASA  |
+|5     |1     |Bracket Hose                         |         |         |PETG / ASA  |
+|6     |1     |Rohr                                 |3 x 1,6  |         |CuZn        |
+|7     |2     |Gewindeeinsatz                       |M3       |         |   |
+|8     |3     |Gewindeeinsatz                       |M4       |         |   |
+|9     |3     |Distanzhülse                         |10 x 6,6 x 15  |       |Al   |     
+|10    |2     |Zylinderschraube mit Innensechskant  |M3 x 10  |ISO 4762 |   |
+|11    |3     |Linsenkopfschraube mit Innensechskant|M4 x 10  |ISO 4762 |   |
+|12    |3     |Scheibe                              |M4       |         |   |
