@@ -29,3 +29,5 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 |10    |2     |Zylinderschraube mit Innensechskant  |M3 x 10  |ISO 4762 |   |
 |11    |3     |Linsenkopfschraube mit Innensechskant|M4 x 10  |ISO 4762 |   |
 |12    |3     |Scheibe                              |M4       |         |   |
+
+![ ](/images/asm_cover_01a.jpg)
