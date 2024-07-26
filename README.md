@@ -11,9 +11,11 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 |2     |Sechskantmutter mit Klemmteil      |M5       |DIN 6924 |   |     
 |2     |Scheibe                            |M5       |         |   |  
 
-![ ](/images/scott_01.jpg)
+<img src="/images/scott_01.jpg" alt="" width="800">
 
 ## Ritzelabdeckung
+
+<img src="/images/cover_01a.jpg" alt="Cover" width="600">
 
 |Pos.  |Anzahl|Bezeichnung                          |Maße     |DIN/EN   |Bemerkung  |
 |:---: |:---:  | ---                                 | ---     | ---     | ---       |
@@ -30,5 +32,4 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 |11    |3     |Flachrundkopfschraube mit Innensechskant|M4 x 10  |ISO 7380-1 |   |
 |12    |3     |Scheibe                              |M4       |         |   |
 
-![ ](/images/asm_cover_01a.jpg)
-
+<img src="/images/asm_cover_01a.jpg" alt="" width="800">
