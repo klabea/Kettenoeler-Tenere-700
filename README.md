@@ -39,3 +39,6 @@ Die Tropfenbildung  kann gut über die Freimachungen in der Abdeckung beobachtet
 
 <img src="/images/asm_cover_01a.jpg" alt="" width="800">
 <img src="/images/schnittstelle.jpg" alt="" width="800">
+Schlauchbefestigung mittels Draht oder Klemmschellen
+
+**Alternativ:** Muttern statt Gewindeeinsätze, die Dateien mit der Namensendung "_nut" sind für Seckskantmuttern ausgelegt.
