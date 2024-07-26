@@ -38,6 +38,15 @@ Die Tropfenbildung  kann gut über die Freimachungen in der Abdeckung beobachtet
 |12    |3     |Scheibe                              |M4       |         |   |
 
 <img src="/images/asm_cover_01a.jpg" alt="" width="800">
+<img src="/images/cover_02.jpg" alt="" width="800">
+
+
+Befestigung der Ritzelabdeckung: Tausch der OEM-Schraube M6 x 20 erforderlich (Schraubenüberstand original 12 mm)
+|Pos.  |Anzahl|Bezeichnung                          |Maße     |DIN/EN   |Bemerkung  |
+|:---: |:---:  | ---                                | ---     | ---     | ---       |  
+|1     |3     |Zylinderschraube mit Innensechskant  |M6 x 30  |ISO 4762 |2mm kürzen  |
+|2     |3     |Scheibe                              |M6       |         |   |
+
 <img src="/images/schnittstelle.jpg" alt="" width="800">
 Schlauchbefestigung mittels Draht oder Klemmschellen
 
