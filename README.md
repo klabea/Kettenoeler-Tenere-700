@@ -16,7 +16,7 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 ## Ritzelabdeckung
 
 |Pos.  |Anzahl|Bezeichnung                          |Maße     |DIN/EN   |Bemerkung  |
-|:---: | ---  | ---                                 | ---     | ---     | ---       |
+|:---: |:---:  | ---                                 | ---     | ---     | ---       |
 |1     |1     |Cover                                |         |         |PETG / ASA  |
 |2     |1     |Guide Tube                           |         |         |PETG / ASA  |
 |3     |1     |Clamp outboard                       |         |         |PETG / ASA  |
@@ -31,3 +31,4 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 |12    |3     |Scheibe                              |M4       |         |   |
 
 ![ ](/images/asm_cover_01a.jpg)
+
