@@ -45,4 +45,4 @@
 
 ## UPDATE 2024-09-23
 * **Cover-02:** Untere Schraubenaufnahme um 1 mm versetzt, Versteifungen hinzu.
-* **Cover-02 (2MM):** Untere Schraubenaufnahme um 1 mm versetzt, Versteifungen u. Schlauchführung ø4,1 hinzu.
+* **Cover-02 (2mm):** Untere Schraubenaufnahme um 1 mm versetzt, Versteifungen u. Schlauchführung ø4,1 hinzu.
