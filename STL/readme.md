@@ -42,3 +42,7 @@
 * Nozzel 0,4 mm
 * Schichthöhe 0,2 mm
 * Infill 100%
+
+## UPDATE 2024-09-23
+* **Cover-02:** Untere Schraubenaufnahme um 1 mm versetzt, Versteifungen hinzu.
+* **Cover-02 (2MM):** Untere Schraubenaufnahme um 1 mm versetzt, Versteifungen u. Schlauchführung ø4,1 hinzu.
