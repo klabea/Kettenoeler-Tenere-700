@@ -50,4 +50,6 @@ Befestigung der Ritzelabdeckung: Tausch der OEM-Schraube M6 x 20 erforderlich (S
 <img src="/images/schnittstelle.jpg" alt="" width="800">
 Schlauchbefestigung mittels Draht oder Klemmschellen
 
-**Alternativ:** Muttern statt Gewindeeinsätze, die Dateien mit der Namensendung "_nut" sind für Seckskantmuttern ausgelegt.
+### Info
+- **Muttern statt Gewindeeinsätze:** die Dateien mit der Namensendung "_nut" sind für Seckskantmuttern ausgelegt.
+- **Variante 2mm:** Ausgelegt auf eine Ölzuführung mit einem Außendurchmesser von 2 mm.
