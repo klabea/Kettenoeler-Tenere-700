@@ -43,7 +43,7 @@ Die Tropfenbildung  kann gut über die Freimachungen in der Abdeckung beobachtet
 Befestigung der Ritzelabdeckung: Tausch der OEM-Schraube M6 x 20 erforderlich (Schraubenüberstand original 12 mm)
 |Pos.  |Anzahl|Bezeichnung                          |Maße     |DIN/EN   |Bemerkung  |
 |:---: |:---:  | ---                                | ---     | ---     | ---       |  
-|1     |3     |Zylinderschraube mit Innensechskant  |M6 x 30  |ISO 4762 |2mm kürzen  |
+|1     |3     |Zylinderschraube mit Innensechskant  |M6 x 30  |ISO 4762 |evt. 2mm kürzen  |
 |2     |3     |Scheibe                              |M6       |         |   |
 
 <img src="/images/schnittstelle.jpg" alt="" width="800">
