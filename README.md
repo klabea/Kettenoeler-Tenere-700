@@ -51,4 +51,4 @@ Schlauchbefestigung mittels Draht oder Klemmschellen
 
 ### Info
 - **Muttern statt Gewindeeinsätze:** die Dateien mit der Namensendung "_nut" sind für Seckskantmuttern ausgelegt.
-- **Variante 2mm:** Ausgelegt auf eine Ölzuführung mit einem Außendurchmesser von 2 mm.
+- **Variante 2mm:** Ausgelegt für ein CuZn-Rohr mit einem Außendurchmesser von 2 mm.
