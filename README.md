@@ -18,7 +18,6 @@ Eine 3D-gedruckte Abdeckung mit integrierter Schmiermittelzufuhr, ersetzt die or
 
 Die Tropfenbildung  kann gut über die Freimachungen in der Abdeckung beobachtet werden.
 
-**Option:** Das Guide Tube ist als Schieber ausgelegt.  Über ein optionales Langloch im Cover besteht die Möglichkeit die Abtropfposition an kleinere/größere Ritzel anzupassen.
 
 <img src="/images/cover_01a.jpg" alt="Cover" width="600">
 
