@@ -14,7 +14,7 @@ Eine 3D-gedruckte Aufnahme für das Scottoiler vSystem. Die Aufnahme wird an ein
 <img src="/images/scott_01.jpg" alt="" width="800">
 
 ## Ritzelabdeckung
-Eine 3D-gedruckte Abdeckung mit integrierter Schmiermittelzufuhr, ersetzt die originale OEM-Blende. Das Schmiermittel wird auf die ablaufende Kette, unten mittig, ca. 5 mm vom Ritzel (15Z) und ca. 14 mm zur Kette aufgeträufelt. Im voll eingefederten Zustand beträgt der Abstand wie zum Ritzel ebenfalls ca. 5 mm.
+Eine 3D-gedruckte Abdeckung mit integrierter Schmiermittelzufuhr, ersetzt die originale OEM-Blende. Das Schmiermittel wird auf die ablaufende Kette, unten mittig, ca. 7 mm vom Ritzel (15Z) und ca. 16 mm zur Kette aufgeträufelt. Im voll eingefederten Zustand beträgt der Abstand zur Kette ca. 5 mm.
 
 Die Tropfenbildung  kann gut über die Freimachungen in der Abdeckung beobachtet werden.
 
